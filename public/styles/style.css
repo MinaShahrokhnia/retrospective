@@ -1,0 +1,23 @@
+body {
+    font-family: 'Vazir', sans-serif;
+}
+
+ul#cards {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul#cards li {
+    display: inline-block;
+    margin: 0 1em 1em 0;
+}
+ul#cards .card {
+    min-width: 18rem;
+    max-width: 18rem;
+}
+ul#cards .card .buttons a {
+    margin-left: 0.5em;
+}
+div#card-dialog .form-group{
+   width: 100% 
+}
